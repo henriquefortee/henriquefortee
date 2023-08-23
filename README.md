@@ -10,7 +10,6 @@
   <img align="center" alt="Forte-Pm" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   <img align="center" alt="Forte-Insomnia" height="30" width="40" src="https://www.svgrepo.com/show/353904/insomnia.svg">
   <img align="center" alt="Forte-Git" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg">
-  <img align="center" alt="Forte-Jmeter" height="30" width="40" src="https://jmeter.apache.org/images/asf-logo.svg">
   
 </div>
 
