@@ -6,7 +6,7 @@
 - 👯 Contate-me no email:  henriquefortee@gmail.com
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Forte-Se" height="30" width="40" src="https://github.com/henriquefortee/henriquefortee/assets/142829539/2a63f4a6-18bb-490b-8c73-384d2e37ae8a">
+  <img align="center" alt="Forte-Se" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
   <img align="center" alt="Forte-Cy" height="30" width="40" src="https://www.svgrepo.com/show/374271/cypress-opened.svg">
   <img align="center" alt="Forte-Pm" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   <img align="center" alt="Forte-Insomnia" height="30" width="40" src="https://www.svgrepo.com/show/353904/insomnia.svg">
